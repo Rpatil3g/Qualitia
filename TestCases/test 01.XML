@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<TC TCId="b33b172eccc54095ac14c7bd800b256d" ManualTCId="test 01" TCName="test 01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WF>
+    <Task Name="58645b1cde8345e7ab498bb38241929c" Desc="SystemPurpose" TaskSeq="1" ID="58645b1cde8345e7ab498bb38241929c" UpdateTS="5/29/2019 2:01:45 PM" FileName="" IsSystemTask="True" OnError="Continue" isCommented="False">
+      <Step StepId="1" ObjectId="" ObjectName="" ObjectTypeId="" ActionID="bb49d1ead632466aa02b76cdc17c9cce" ActionName="OpenURL" QClass="com.webdriverfw.Wrappers.General" StepSeq="1">
+        <Param Name="&quot;jhfjddsf&quot;" ParamSeq="1" Parameterized="0" Data="jhfjddsf">jhfjddsf</Param>
+      </Step>
+    </Task>
+  </WF>
+  <Data>
+    <TCDataSet Iteration="1" Mark="True" TCDataSetTag="">
+    </TCDataSet>
+  </Data>
+</TC>
